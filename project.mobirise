@@ -44,6 +44,9 @@
             },
             "I": {
               "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -300,6 +303,9 @@
           "_styles": {
             "H4": {
               "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           }
         },
@@ -422,6 +428,9 @@
           "_styles": {
             "H4": {
               "font-size": "22px"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           }
         }
